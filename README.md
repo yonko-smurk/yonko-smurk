@@ -13,7 +13,18 @@ I enjoy solving real-world problems through code and continuously improving my s
 - ⚙️ Familiar with CI/CD pipelines, containerisation, and cloud fundamentals  
 - 📈 Always learning and preparing for graduate software engineering roles  
 
+## 🔧 Currently Working On
 
+**Technical Support Management System (TSMS)** — A full-stack IT support platform built with Django, Django Channels, PostgreSQL + pgvector, Redis, and Ollama LLMs.
+
+- AI-powered ticket triage (automatic classification, priority assignment, and agent recommendation)
+- Semantic FAQ search using vector embeddings for instant question deflection
+- Multi-step AI Troubleshooting Wizard with guided diagnosis flows
+- Real-time analytics dashboard with WebSocket-driven KPIs, SLA countdown timers, and CSAT/NPS tracking
+- 4-engine agent recommender scoring skills, category expertise, performance history, community reputation, and availability
+- Live ticket queue with race-condition-safe claiming and urgent alert detection
+- Community Q&A forum with voting, reputation system, and trust levels
+- Ops dashboard with proactive AI recommendations (SLA risk, workload balancing, stale ticket detection)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f.mudashiru5011@gmail.com) 
